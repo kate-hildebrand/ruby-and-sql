@@ -4,5 +4,11 @@
 # rails runner code-along/0-classes.rb
 
 # String Class
+brians_food = "tacos"
+bens_food = "sushi"
 
+puts brians_food.length
+puts bens_food.length
+
+# we can create our own classes for the purpose of connecting to the database 
 # String Methods
